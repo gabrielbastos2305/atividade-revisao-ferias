@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+    font-family:"Libertinus Serif", serif;
+}
+
+img{
+    width: 688px;
+    border-radius: 15px;
+}
